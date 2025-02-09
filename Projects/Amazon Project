@@ -1,0 +1,18 @@
+Overview
+This project showcases an interactive Power BI dashboard analyzing Amazon's global sales data from 2012 to 2015. The dashboard highlights key metrics and insights related to sales, returns, profits, and market performance.
+
+Key Insights
+Sales Projection: 12.64M units with 51.29K product units sold.
+KPI: 178K with 51.29K returns.
+Sales by Segment: Home Office (51.48%), Corporate (30.25%), Consumer (18.27%).
+Sales by Region: Europe (31.98%), Africa (26%), USCA (18.7%).
+Top Product Profit: Canon Imaging leads with 25K ₹ in profit.
+Top Losses: Major losses from Cubify and Lexmark products.
+Tools Used
+Power BI: For data visualization and dashboard creation.
+Power BI Editor: For data transformation and modeling.
+
+Focus Areas
+Year-wise sales comparison
+Regional market analysis
+Product performance and customer profitability
